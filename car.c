@@ -73,7 +73,7 @@ int main(void)
 	while (TRUE)
 	{
 
-#if £¡CAR
+#if CAR==0
 		//ÇÐ»»ËÙ¶È
 		if (IsSpeedChange())
 		{
