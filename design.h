@@ -9,7 +9,7 @@
 1:car
 
 */
-#define		CAR		1
+#define		CAR		0
 
 
 /*Îó²îÏû³ı*/
